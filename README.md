@@ -13,3 +13,5 @@ Equipo:
 Leyva José
 Castro Francisco
 Valenzuela Eric
+
+![Imagen del Juego :)](assets/Juego.PNG)
