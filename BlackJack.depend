@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1559378696 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\main.cpp
+	"ManipMenu.h"
+	"ManipConsola.h"
+	"Juego.h"
+
+1559371768 c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\manipmenu.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1559372811 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\manipmenu.cpp
+	"ManipMenu.h"
+	"ManipConsola.h"
+
+1559372750 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\creditos.cpp
+	"ManipMenu.h"
+	"ManipConsola.h"
+
+1559372755 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\instrucciones.cpp
+	"ManipMenu.h"
+	"ManipConsola.h"
+
+1559375469 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\imprimircarta.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ManipConsola.h"
+
+1559372728 c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\manipconsola.h
+
+1559372728 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\manipconsola.cpp
+	<windows.h>
+
+1559387513 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"Juego.h"
+	"ManipMenu.h"
+	"ManipConsola.h"
+
+1559386742 c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\juego.h
+
+1559381514 source:c:\users\eric\documents\programación de computadoras\proyecto final - blackjack\blackjack\contarpuntos.cpp
+
+1559381514 source:c:\users\pepe_\onedrive\escritorio\blackjack\contarpuntos.cpp
+
+1559403489 source:c:\users\pepe_\onedrive\escritorio\blackjack\creditos.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"ManipMenu.h"
+	"ManipConsola.h"
+
+1559401778 c:\users\pepe_\onedrive\escritorio\blackjack\manipmenu.h
+
+1559402184 c:\users\pepe_\onedrive\escritorio\blackjack\manipconsola.h
+
+1559415337 source:c:\users\pepe_\onedrive\escritorio\blackjack\imprimircarta.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"ManipConsola.h"
+	"ImprimirCarta.h"
+
+1559406586 source:c:\users\pepe_\onedrive\escritorio\blackjack\instrucciones.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"ManipMenu.h"
+	"ManipConsola.h"
+
+1559418250 source:c:\users\pepe_\onedrive\escritorio\blackjack\juego.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	"Juego.h"
+	"ManipMenu.h"
+	"ManipConsola.h"
+	"ImprimirCarta.h"
+
+1559393935 c:\users\pepe_\onedrive\escritorio\blackjack\juego.h
+
+1559401224 source:c:\users\pepe_\onedrive\escritorio\blackjack\main.cpp
+	<iostream>
+	<cstdlib>
+	"ManipMenu.h"
+	"ManipConsola.h"
+	"Juego.h"
+
+1559402184 source:c:\users\pepe_\onedrive\escritorio\blackjack\manipconsola.cpp
+	<windows.h>
+
+1559401993 source:c:\users\pepe_\onedrive\escritorio\blackjack\manipmenu.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"ManipMenu.h"
+	"ManipConsola.h"
+
+1559393442 c:\users\pepe_\onedrive\escritorio\blackjack\imprimircarta.h
+
