@@ -10,6 +10,7 @@ El juego consiste en un BlackJack sencillo, uno a uno contra la computadora.
 Agradecimientos a la maestra Ireren Rodríguez Castillo :)
 
 Equipo:
+
 Leyva José
 
 Castro Francisco
