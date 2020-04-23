@@ -9,7 +9,7 @@ El juego consiste en un BlackJack sencillo, uno a uno contra la computadora.
 
 Agradecimientos a la maestra Irene Rodríguez Castillo :)
 
-Equipo:
+#Equipo:
 
 Leyva José
 
